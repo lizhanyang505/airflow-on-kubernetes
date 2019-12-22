@@ -108,3 +108,6 @@ If your cluster has [RBAC](https://kubernetes.io/docs/admin/authorization/rbac/)
 * [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
 * [Airflow on AKS](https://blog.godatadriven.com/airflow-on-aks) (end-to-end guide)
 * [Airflow scheduler healthcheck](https://roland.de-boo.nl/airflow-healthcheck/)
+
+k8s install uri
+https://hub.kubeapps.com/charts/stable/airflow
